@@ -1,0 +1,17 @@
+Версия SQLite: 3.46.1
+
+Исполняемый файл:
+ /usr/bin/sqlite3
+
+Для работы SQLite используются:
+ /usr/bin/sqlite3
+ /usr/lib/x86_64-linux-gnu/libsqlite3.so.0
+ /usr/lib/x86_64-linux-gnu/libreadline.so.8
+ /usr/lib/x86_64-linux-gnu/libz.so.1
+ /usr/lib/x86_64-linux-gnu/libc.so.6
+ /usr/lib/x86_64-linux-gnu/libm.so.6
+ /usr/lib/x86_64-linux-gnu/libtinfo.so.6
+ /lib64/ld-linux-x86-64.so.2
+
+Режимы вывода sqlite3:
+ascii, box, column, csv, html, insert, json, line, list, markdown, qbox, quote, table, tabs, tcl
